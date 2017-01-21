@@ -81,7 +81,7 @@
             // 
             // Delete
             // 
-            this.Delete.Location = new System.Drawing.Point(158, 143);
+            this.Delete.Location = new System.Drawing.Point(148, 143);
             this.Delete.Name = "Delete";
             this.Delete.Size = new System.Drawing.Size(75, 23);
             this.Delete.TabIndex = 3;
